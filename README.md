@@ -10,3 +10,5 @@ Summary of the School Database Management System Project:
 - The Principal panel serves as an administrative interface, providing access to important information and tools for school management.
 - The project implements data retrieval functionality to display student and teacher data, enabling the visualization and access of relevant information stored within the system.
 - By utilizing Python, GUI, and database operations, the School Database Management System project aims to enhance the efficiency and organization of school-related tasks and data management.
+# Front Panel Image
+![image](https://github.com/bhanu-brave/School_database_project/assets/103100587/394167a2-30b4-405f-bac5-63cf6ff9264c)  
