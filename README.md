@@ -11,6 +11,10 @@ Summary of the School Database Management System Project:
 - The project implements data retrieval functionality to display student and teacher data, enabling the visualization and access of relevant information stored within the system.
 - The School Database Management System project aims to enhance the efficiency and organization of school-related tasks and data management by utilizing Python, GUI, and database operations.
 
+# How to use code
+ 1. Extract the zip file
+ 2. Run only the school.py file 
+
 # Front Panel Image
 ![image](https://github.com/bhanu-brave/School_database_project/assets/103100587/394167a2-30b4-405f-bac5-63cf6ff9264c)  
 
@@ -30,7 +34,4 @@ Summary of the School Database Management System Project:
 ![image](https://github.com/bhanu-brave/School_database_project/assets/103100587/058219b7-1971-46db-aedc-46dddace99c8)
 
 
-# How to use code
- 1. Extract the zip file
- 2. Run only the school.py file 
 
