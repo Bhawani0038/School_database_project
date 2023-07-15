@@ -13,7 +13,8 @@ Summary of the School Database Management System Project:
 
 # How to use code
  1. Extract the zip file
- 2. Run only the school.py file 
+ 2. Run only the school.py file
+ 3. Show database: Install Xampp and then open the Xampp (start Apache server and MySQL) then open "localhost/phpmyadmin/" in Chrome browser.
 
 # Front Panel Image
 ![image](https://github.com/bhanu-brave/School_database_project/assets/103100587/394167a2-30b4-405f-bac5-63cf6ff9264c)  
